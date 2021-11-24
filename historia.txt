@@ -5,3 +5,5 @@ tiene 25 años y nacio en Medellín
 hoy hablaremos de su historia .
 
 me gusta mucho programar.
+
+hoy estoy buscando trabajo.
